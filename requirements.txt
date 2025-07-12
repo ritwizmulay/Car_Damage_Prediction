@@ -97,7 +97,6 @@ pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pytz==2025.2
-pywin32==310
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.4.0
@@ -124,9 +123,8 @@ terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
 toml==0.10.2
-torch==2.7.0+cu118
-torchaudio==2.7.0+cu118
-torchvision==0.22.0+cu118
+torch==2.7.0
+torchvision==0.22.0
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
